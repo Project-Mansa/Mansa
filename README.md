@@ -1,2 +1,2 @@
 # Viva
-An incentivized, blockchain-based social economic system. 
+An incentivized, blockchain-based social economic system with full reserve banking, smart tokens, and dapp support. 
